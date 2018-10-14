@@ -1,0 +1,7 @@
+﻿  compile_error.cpp
+c:\users\aliyu\source\repos\cs31compile\cs31compile\compile_error.cpp(20): error C2146: syntax error: missing ';' before identifier 'forNewsom'
+c:\users\aliyu\source\repos\cs31compile\cs31compile\compile_error.cpp(20): warning C4552: '/': result of expression not used
+c:\users\aliyu\source\repos\cs31compile\cs31compile\compile_error.cpp(30): error C2059: syntax error: 'if'
+c:\users\aliyu\source\repos\cs31compile\cs31compile\compile_error.cpp(32): error C2059: syntax error: 'else'
+c:\users\aliyu\source\repos\cs31compile\cs31compile\compile_error.cpp(34): error C2059: syntax error: '}'
+c:\users\aliyu\source\repos\cs31compile\cs31compile\compile_error.cpp(34): error C2143: syntax error: missing ';' before '}'
